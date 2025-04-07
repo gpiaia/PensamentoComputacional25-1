@@ -9,7 +9,7 @@ Este repositório contém todos os exercícios desenvolvidos para a disciplina d
 - **Disciplina:** Pensamento Computacional
 - **Curso:** Análise e Desenvolvimento de Sistemas
 - **Faculdade:** Faculdade IENH
-- **Professores:** Edurdo Isaia e Guilherme Piaia
+- **Professores:** Eduardo Isaia e Guilherme Piaia
 
 ---
 
